@@ -125,7 +125,7 @@ This is a project for a car rental website. It is a project for the College Mini
 
 ## Authors 
 
-- [Varshith V Hegde](https://github.com/Varshithvhegde)
+- [Annanagouda](https://github.com/Varshithvhegde)
 - [Swasthik Jain PM](https://github.com/Swasthik-Jain)
 
 ## Show your support
